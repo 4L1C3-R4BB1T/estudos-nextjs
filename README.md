@@ -3,5 +3,15 @@
 
 ---
 
+```bash
+# Criar projeto
+npx create-next-app@latest .
+
+# Executar projeto
+npm run dev
+```
+
+---
+
 🔗 Links
 * [Documentação](https://nextjs.org/docs)  
